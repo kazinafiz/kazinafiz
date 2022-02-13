@@ -49,8 +49,9 @@
   <br/>
   <p align="center">
     <a href="https://github.com/kazinafiz/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kazinafiz&show_icons=true&count_private=true&theme=default&hide_border=false&bg_color=ffffff&icon_color=007FFF&title_color=007FFF" /></a>
+    <br/>
   <a href="https://github.com/kazinafiz/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazinafiz&langs_count=8&count_private=true&layout=compact&theme=default&hide_border=false&bg_color=ffffff&title_color=007FFF" /></a>
-    </p>
+  </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
