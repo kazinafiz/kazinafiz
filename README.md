@@ -1,22 +1,22 @@
 <a href="#"><img width="100%" height="auto" src="https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kazi Nafiz</h1>
-<h3 align="center">I'm a passionate Front-End Developer & WordPress Developer</h3>
+<h3 align="center">I'm a passionate Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[My Portfolio Website](#)**
+- 🔭 I’m currently working on **[My Portfolio Website](https://kazinafiz.com/)**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Cyber Security**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[Behance](https://www.behance.net/kazidevs)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://kazinafiz.com/works/)**
 
-- 📫 How to reach me **contact.kazinafiz@gmail.com**
+- 📫 How to reach me **contact@kazinafiz.com**
 
-- ⚡ Fun fact **I love Photography, Singing & go to the GYM sometimes.**
+- ⚡ Fun fact **Outside of work, I enjoy Photography. I love painting, singing & travelling.**
 
 ## 🚀 Languages and Tools:
 
@@ -26,13 +26,13 @@
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <!-- <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>     -->
-    <a href="https://jquery.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/jquery.png"/></a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a href="https://jquery.com/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/php.png"/></a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://wordpress.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png"/> </a>
     <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-illustrator--v1.png"/> </a>
     <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.icons8.com/fluency/50/000000/adobe-photoshop.png"/> </a>
-    <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a>
+    <a href="https://www.adobe.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/adobe-lightroom.png"/> </a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
@@ -60,8 +60,8 @@
 
 <br/>
 <br/>
-
-<a href="https://github.com/kazinafiz/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kazinafiz&theme=minimal&line=007FFF&hide_border=false" /></a>
+<!-- 
+<a href="https://github.com/kazinafiz/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kazinafiz&theme=minimal&line=007FFF&hide_border=false" /></a> -->
 
 <br/>
 <br/>
